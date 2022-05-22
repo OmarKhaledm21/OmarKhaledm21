@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋 I'm Omar Khaled Mohy El-din
 
-<!--
-**OmarKhaledm21/OmarKhaledm21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=omarkhaledm21&count_private=true&include_all_commits=true" width="47%" align="left"/>
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on
+[Algorithms and Datastructures in Java](https://github.com/OmarKhaledm21/Algorithm-and-Datastructures-in-Java)
+  
+[Book Listing Android Application using Google books API](https://github.com/OmarKhaledm21/Book-Listing-App-Android-Native-Java-)
+<br>
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning 
+- Software Engineering principles and Design Patterns.
+- Backend with NodeJs.
+- Android Development with Kotlin and Java.
+
+## 📫 How to reach me: 
+- Email: omarkhaledm21@gmail.com 
+- [Linkedin](https://www.linkedin.com/in/omarkhaledm21)
+

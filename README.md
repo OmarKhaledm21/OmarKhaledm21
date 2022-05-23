@@ -14,7 +14,29 @@
 - Software Engineering principles and Design Patterns.
 - Backend with NodeJs.
 - Android Development with Kotlin and Java.
+## 🖥️ My Projects
+### Freelance Projects
+- [Car Workshop Managment System](https://github.com/OmarKhaledm21/CarWorkshop-Managment-System) Java, JavaFX, SQLite
+### Personal Projects
+- [Experince Egypt Tourism Guide Android Application](https://github.com/OmarKhaledm21/ExperienceEgyptApp_Android-Java-Tourism-Guide-) Java, SQLite (In Progress)
+- [Earth Quake Report Android Application](https://github.com/OmarKhaledm21/EarthQuakeReport_AndroidNative-API-JSON) Java
+- [Grocery Store Android Application](https://github.com/OmarKhaledm21/GroceryStore_AndroidNative-Java-) Java, SQLite
+- [Bits and Pizzas Resturant Android Application](https://github.com/OmarKhaledm21/Bits-and-Pizzas_Android-Native-JAVA-) Java
+- [Simple Stopwatch Android Application](https://github.com/OmarKhaledm21/SimpleStopwatch-Android-Native-Java-) Java
+- [Android Simple Image Downloader](https://github.com/OmarKhaledm21/Android_Image_Downloader_Using-Java-AndroidStudio) Java
+- [Quiz Application](https://github.com/OmarKhaledm21/Flutter_QuizDemo) Dart, Flutter
+- [ToDo List Application](https://github.com/OmarKhaledm21/Flutter-Google-Developer-Student-Club-Todo-List-Final-Task-) Dart, Flutter
+- [TMDb Movies Case Study Data Cleaning & Analysis](https://github.com/OmarKhaledm21/TMDb-Movies-Case-Study-Project-_Analysis-Report-Professional-Nano-Degree-Udacity-egFWD-) Python
 
+### College Projects
+- [CLI Ride Sharing Application](https://github.com/OmarKhaledm21/OnDriverSystem_CS_Project) Java, SQLite, Springboot
+- [GoFo football playground reservation](https://github.com/OmarKhaledm21/GoFo-Project-SE2021) Java
+- [LZ&LZW Text Compressions](https://github.com/OmarKhaledm21/Limpel-Ziv-77-and-LZW-Compressions-in-JAVA) Java
+- [Standard Huffman Text Compression](https://github.com/OmarKhaledm21/StandardHuffman_Compression-Decompression_JAVA) Java
+- [Simple Java Socket HTTP Simulation](https://github.com/OmarKhaledm21/Simple-Socket-HTTP-Project) Java
+- [Java Linux Terminal](https://github.com/OmarKhaledm21/Linux-Terminal-Simulation_Using_Java) Java
+- [K-MEANS Clustering on Multiprocessors](https://github.com/OmarKhaledm21/K-MEANS_Clustering-C_OpenMP-) C, OpenMP Framework
+- [Disk Scheduling Algorithms + Visualizer](https://github.com/OmarKhaledm21/Disk-Scheduling-Algorithms) Java, JavaFx
 ## 📫 How to reach me: 
 - Email: omarkhaledm21@gmail.com 
 - [Linkedin](https://www.linkedin.com/in/omarkhaledm21)

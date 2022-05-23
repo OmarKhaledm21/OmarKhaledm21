@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Omar Khaled Mohy El-din
 
 <img src="https://github-readme-stats.vercel.app/api?username=omarkhaledm21&count_private=true&include_all_commits=true" width="47%" align="left"/>
-
 ## 🔭 I’m currently working on
 [Algorithms and Datastructures in Java](https://github.com/OmarKhaledm21/Algorithm-and-Datastructures-in-Java)
   
@@ -31,14 +30,17 @@
 
 ### College Projects
 - [CLI Ride Sharing Application](https://github.com/OmarKhaledm21/OnDriverSystem_CS_Project) Java, SQLite, Springboot
+- [K-MEANS Clustering on Multiprocessors](https://github.com/OmarKhaledm21/K-MEANS_Clustering-C_OpenMP-) C, OpenMP Framework
+- [Disk Scheduling Algorithms + Visualizer](https://github.com/OmarKhaledm21/Disk-Scheduling-Algorithms) Java, JavaFx
+- [Simple Java Socket HTTP Simulation](https://github.com/OmarKhaledm21/Simple-Socket-HTTP-Project) Java
 - [GoFo football playground reservation](https://github.com/OmarKhaledm21/GoFo-Project-SE2021) Java
 - [LZ&LZW Text Compressions](https://github.com/OmarKhaledm21/Limpel-Ziv-77-and-LZW-Compressions-in-JAVA) Java
 - [Standard Huffman Text Compression](https://github.com/OmarKhaledm21/StandardHuffman_Compression-Decompression_JAVA) Java
-- [Simple Java Socket HTTP Simulation](https://github.com/OmarKhaledm21/Simple-Socket-HTTP-Project) Java
 - [Java Linux Terminal](https://github.com/OmarKhaledm21/Linux-Terminal-Simulation_Using_Java) Java
-- [K-MEANS Clustering on Multiprocessors](https://github.com/OmarKhaledm21/K-MEANS_Clustering-C_OpenMP-) C, OpenMP Framework
-- [Disk Scheduling Algorithms + Visualizer](https://github.com/OmarKhaledm21/Disk-Scheduling-Algorithms) Java, JavaFx
+- [Deadlock Simulation & Bankers Algorithm](https://github.com/OmarKhaledm21/DeadLock_BankersAlgorithm) Java
+- [TCP Chat](https://github.com/OmarKhaledm21/TCP-Chat) and [UDP Chat](https://github.com/OmarKhaledm21/UDP-Chat) using Java Socket
 ## 📫 How to reach me: 
 - Email: omarkhaledm21@gmail.com 
 - [Linkedin](https://www.linkedin.com/in/omarkhaledm21)
+
 

@@ -18,6 +18,7 @@
 ### Freelance Projects
 - [Car Workshop Managment System](https://github.com/OmarKhaledm21/CarWorkshop-Managment-System) Java, JavaFX, SQLite
 ### Personal Projects
+- [Book Listing Android Application using Google books API](https://github.com/OmarKhaledm21/Book-Listing-App-Android-Native-Java-) Java, SQLite (In Progress)
 - [Experince Egypt Tourism Guide Android Application](https://github.com/OmarKhaledm21/ExperienceEgyptApp_Android-Java-Tourism-Guide-) Java, SQLite (In Progress)
 - [Earth Quake Report Android Application](https://github.com/OmarKhaledm21/EarthQuakeReport_AndroidNative-API-JSON) Java
 - [Grocery Store Android Application](https://github.com/OmarKhaledm21/GroceryStore_AndroidNative-Java-) Java, SQLite

@@ -28,6 +28,7 @@
 - [Quiz Application](https://github.com/OmarKhaledm21/Flutter_QuizDemo) Dart, Flutter
 - [ToDo List Application](https://github.com/OmarKhaledm21/Flutter-Google-Developer-Student-Club-Todo-List-Final-Task-) Dart, Flutter
 - [TMDb Movies Case Study Data Cleaning & Analysis](https://github.com/OmarKhaledm21/TMDb-Movies-Case-Study-Project-_Analysis-Report-Professional-Nano-Degree-Udacity-egFWD-) Python
+- [Hacker Rank SQL Solutions](https://github.com/OmarKhaledm21/Hackerrank_SQL)
 
 ### College Projects
 - [CLI Ride Sharing Application](https://github.com/OmarKhaledm21/OnDriverSystem_CS_Project) Java, SQLite, Springboot
@@ -37,9 +38,12 @@
 - [GoFo football playground reservation](https://github.com/OmarKhaledm21/GoFo-Project-SE2021) Java
 - [LZ&LZW Text Compressions](https://github.com/OmarKhaledm21/Limpel-Ziv-77-and-LZW-Compressions-in-JAVA) Java
 - [Standard Huffman Text Compression](https://github.com/OmarKhaledm21/StandardHuffman_Compression-Decompression_JAVA) Java
+- [Virtual File System](https://github.com/OmarKhaledm21/Virtual-File-System-Simulation) Java
 - [Java Linux Terminal](https://github.com/OmarKhaledm21/Linux-Terminal-Simulation_Using_Java) Java
 - [Deadlock Simulation & Bankers Algorithm](https://github.com/OmarKhaledm21/DeadLock_BankersAlgorithm) Java
 - [TCP Chat](https://github.com/OmarKhaledm21/TCP-Chat) and [UDP Chat](https://github.com/OmarKhaledm21/UDP-Chat) using Java Socket
+- [CPU Scheduling Algorithms](https://github.com/OmarKhaledm21/CPU-Scheduling-JAVA) Java
+- [Router Simulation & Syncronization](https://github.com/OmarKhaledm21/Router-Simulation-Java-Synchronization) Java
 ## 📫 How to reach me: 
 - Email: omarkhaledm21@gmail.com 
 - [Linkedin](https://www.linkedin.com/in/omarkhaledm21)

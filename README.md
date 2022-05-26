@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Omar Khaled Mohy El-din
 
 <img src="https://github-readme-stats.vercel.app/api?username=omarkhaledm21&count_private=true&include_all_commits=true" width="47%" align="left"/>
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarkhaledm21&layout=compact" width="47%" align="left"/> -->
+
 
 
 ## 🔭 I’m currently working on

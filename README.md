@@ -25,7 +25,6 @@
 - [Experince Egypt Tourism Guide Android Application](https://github.com/OmarKhaledm21/ExperienceEgyptApp_Android-Java-Tourism-Guide-) Java, SQLite (In Progress)
 - [Earth Quake Report Android Application Using USGS API](https://github.com/OmarKhaledm21/EarthQuakeReport_AndroidNative-API-JSON) Java
 - [Grocery Store Android Application](https://github.com/OmarKhaledm21/GroceryStore_AndroidNative-Java-) Java, SQLite
-- [Miwok Android Application](https://github.com/OmarKhaledm21/Miwok-Android-Application) Java
 - [Bits and Pizzas Resturant Android Application](https://github.com/OmarKhaledm21/Bits-and-Pizzas_Android-Native-JAVA-) Java
 - [Simple Stopwatch Android Application](https://github.com/OmarKhaledm21/SimpleStopwatch-Android-Native-Java-) Java
 - [Android Simple Image Downloader](https://github.com/OmarKhaledm21/Android_Image_Downloader_Using-Java-AndroidStudio) Java

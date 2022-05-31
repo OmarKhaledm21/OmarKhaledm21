@@ -7,7 +7,11 @@
 ## 🔭 I’m currently working on
 
 [Algorithms and Datastructures in Java](https://github.com/OmarKhaledm21/Algorithm-and-Datastructures-in-Java)  
+
+
 [Book Listing Android Application using Google books API](https://github.com/OmarKhaledm21/Book-Listing-App-Android-Native-Java-)
+
+
 [Chinese Checkers AI vs Human (Hard - Easy - Medium) Using MinMax Algorithm](https://github.com/OmarKhaledm21/Chinese-Checkers-AI)
 <br>
 <br>

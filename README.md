@@ -12,7 +12,7 @@
 [Book Listing Android Application using Google books API](https://github.com/OmarKhaledm21/Book-Listing-App-Android-Native-Java-)
 
 
-[Chinese Checkers AI vs Human (Hard - Easy - Medium) Using MinMax Algorithm](https://github.com/OmarKhaledm21/Chinese-Checkers-AI)
+[Chinese Checkers AI vs Human (Hard - Easy - Medium) Using MiniMax Algorithm](https://github.com/OmarKhaledm21/Chinese-Checkers-AI)
 <br>
 <br>
 <br>
@@ -42,7 +42,7 @@
 ### College Projects
 - [CLI Ride Sharing Application](https://github.com/OmarKhaledm21/OnDriverSystem_CS_Project) Java, SQLite, Springboot
 - [K-MEANS Clustering on Multiprocessors](https://github.com/OmarKhaledm21/K-MEANS_Clustering-C_OpenMP-) C, OpenMP Framework
-- [Chinese Checkrs AI vs Human](https://github.com/OmarKhaledm21/Chinese-Checkers-AI) Python
+- [Chinese Checkers AI vs Human (Hard - Easy - Medium) Using MiniMax Algorithm](https://github.com/OmarKhaledm21/Chinese-Checkers-AI) Python
 - [Disk Scheduling Algorithms + Visualizer](https://github.com/OmarKhaledm21/Disk-Scheduling-Algorithms) Java, JavaFx
 - [Simple Java Socket HTTP Simulation](https://github.com/OmarKhaledm21/Simple-Socket-HTTP-Project) Java
 - [GoFo football playground reservation](https://github.com/OmarKhaledm21/GoFo-Project-SE2021) Java

@@ -20,8 +20,9 @@
 
 ## 🌱 I’m currently learning 
 - Software Engineering principles and Design Patterns.
-- Backend with NodeJs.
+- Backend with Python Django.
 - Android Development with Kotlin and Java.
+- Problem Solving.
 ## 🖥️ My Projects
 ### Freelance Projects
 - [Car Workshop Managment System](https://github.com/OmarKhaledm21/CarWorkshop-Managment-System) Java, JavaFX, SQLite

@@ -27,6 +27,7 @@
 
 ## 🔭 Problem Solving, Datastructures and Algorithms.
 - [Algorithms and Datastructures in Java](https://github.com/OmarKhaledm21/Algorithm-and-Datastructures-in-Java)  
+- [Algorithms and Datastructures in c++](https://github.com/OmarKhaledm21/Algorithms_and_Datastructures_CPLUSPLUS)
 - [LeetCode Profile](https://leetcode.com/OmarKhaledm21/)
 - [CodeForces Profile](https://codeforces.com/profile/Omar_Khaled22)
 - [Hackerrank Profile](https://www.hackerrank.com/Omar_Khaled21)
@@ -57,16 +58,17 @@
 - [CLI Ride Sharing Application](https://github.com/OmarKhaledm21/OnDriverSystem_CS_Project) Java, SQLite, Springboot
 - [K-MEANS Clustering on Multiprocessors](https://github.com/OmarKhaledm21/K-MEANS_Clustering-C_OpenMP-) C, OpenMP Framework
 - [Chinese Checkers AI vs Human (Hard - Easy - Medium) Using MiniMax Algorithm](https://github.com/OmarKhaledm21/Chinese-Checkers-AI) Python
-- [Disk Scheduling Algorithms + Visualizer](https://github.com/OmarKhaledm21/Disk-Scheduling-Algorithms) Java, JavaFx
-- [Simple Java Socket HTTP Simulation](https://github.com/OmarKhaledm21/Simple-Socket-HTTP-Project) Java
-- [GoFo football playground reservation](https://github.com/OmarKhaledm21/GoFo-Project-SE2021) Java
 - [LZ&LZW Text Compressions](https://github.com/OmarKhaledm21/Limpel-Ziv-77-and-LZW-Compressions-in-JAVA) Java
 - [Standard Huffman Text Compression](https://github.com/OmarKhaledm21/StandardHuffman_Compression-Decompression_JAVA) Java
-- [Virtual File System](https://github.com/OmarKhaledm21/Virtual-File-System-Simulation) Java
-- [Java Linux Terminal](https://github.com/OmarKhaledm21/Linux-Terminal-Simulation_Using_Java) Java
+- [Disk Scheduling Algorithms + Visualizer](https://github.com/OmarKhaledm21/Disk-Scheduling-Algorithms) Java, JavaFx
 - [Deadlock Simulation & Bankers Algorithm](https://github.com/OmarKhaledm21/DeadLock_BankersAlgorithm) Java
+- [Simple Java Socket HTTP Simulation](https://github.com/OmarKhaledm21/Simple-Socket-HTTP-Project) Java
+- [GoFo football playground reservation](https://github.com/OmarKhaledm21/GoFo-Project-SE2021) Java
 - [TCP Chat](https://github.com/OmarKhaledm21/TCP-Chat) and [UDP Chat](https://github.com/OmarKhaledm21/UDP-Chat) using Java Socket
 - [CPU Scheduling Algorithms](https://github.com/OmarKhaledm21/CPU-Scheduling-JAVA) Java
+- [Virtual File System](https://github.com/OmarKhaledm21/Virtual-File-System-Simulation) Java
+- [Java Linux Terminal](https://github.com/OmarKhaledm21/Linux-Terminal-Simulation_Using_Java) Java
+
 - [Router Simulation & Syncronization](https://github.com/OmarKhaledm21/Router-Simulation-Java-Synchronization) Java
 ## 📫 My Links and How to reach me: 
 - Email: omarkhaledm21@gmail.com 

@@ -18,6 +18,18 @@
 <br>
 <br>
 
+
+## 🔭 Problem Solving, Datastructures and Algorithms.
+- [Algorithms and Datastructures in Java](https://github.com/OmarKhaledm21/Algorithm-and-Datastructures-in-Java)  
+- [LeetCode Profile](https://leetcode.com/OmarKhaledm21/)
+- [CodeForces Profile](https://codeforces.com/profile/Omar_Khaled22)
+- [Hackerrank Profile](https://www.hackerrank.com/Omar_Khaled21)
+- [Solved Problems LeetCode Repository](https://github.com/OmarKhaledm21/365Days_LeetCode)
+- [Solved Problems CodeForces Repository](https://github.com/OmarKhaledm21/Problem-Solving_Codeforces)
+- [HackerRank SQL Solutions](https://github.com/OmarKhaledm21/Hackerrank_SQL) MySQL
+- [LeetCode SQL Study Plan](https://github.com/OmarKhaledm21/LeetCode_SQL_StudyPlan) MySQL
+
+
 ## 🌱 I’m currently learning 
 - Software Engineering principles and Design Patterns.
 - Backend with Python Django.
@@ -40,7 +52,6 @@
 - [ToDo List Application](https://github.com/OmarKhaledm21/Flutter-Google-Developer-Student-Club-Todo-List-Final-Task-) Dart, Flutter
 - [TMDb Movies Case Study Data Cleaning & Analysis](https://github.com/OmarKhaledm21/TMDb-Movies-Case-Study-Project-_Analysis-Report-Professional-Nano-Degree-Udacity-egFWD-) Python
 - [Custom PHP Backend with MySQL Supports SCRUD Operations](https://github.com/OmarKhaledm21/PHP_MySQL_SCRUD_Backend) PHP, HTML, MySQL 
-- [Hacker Rank SQL Solutions](https://github.com/OmarKhaledm21/Hackerrank_SQL) MySQL
 
 ### College Projects
 - [CLI Ride Sharing Application](https://github.com/OmarKhaledm21/OnDriverSystem_CS_Project) Java, SQLite, Springboot
@@ -57,10 +68,11 @@
 - [TCP Chat](https://github.com/OmarKhaledm21/TCP-Chat) and [UDP Chat](https://github.com/OmarKhaledm21/UDP-Chat) using Java Socket
 - [CPU Scheduling Algorithms](https://github.com/OmarKhaledm21/CPU-Scheduling-JAVA) Java
 - [Router Simulation & Syncronization](https://github.com/OmarKhaledm21/Router-Simulation-Java-Synchronization) Java
-## 📫 How to reach me: 
+## 📫 My Links and How to reach me: 
 - Email: omarkhaledm21@gmail.com 
 - [Linkedin](https://www.linkedin.com/in/omarkhaledm21)
 - [Hackerrank](https://www.hackerrank.com/Omar_Khaled21)
 - [LeetCode](https://leetcode.com/OmarKhaledm21/)
+- [CodeForces](https://codeforces.com/profile/Omar_Khaled22)
 
 

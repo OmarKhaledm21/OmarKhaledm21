@@ -19,6 +19,12 @@
 <br>
 
 
+## 🌱 I’m currently learning 
+- Software Engineering principles and Design Patterns.
+- Backend with Python Django.
+- Android Development with Kotlin and Java.
+- Problem Solving.
+
 ## 🔭 Problem Solving, Datastructures and Algorithms.
 - [Algorithms and Datastructures in Java](https://github.com/OmarKhaledm21/Algorithm-and-Datastructures-in-Java)  
 - [LeetCode Profile](https://leetcode.com/OmarKhaledm21/)
@@ -29,12 +35,6 @@
 - [HackerRank SQL Solutions](https://github.com/OmarKhaledm21/Hackerrank_SQL) MySQL
 - [LeetCode SQL Study Plan](https://github.com/OmarKhaledm21/LeetCode_SQL_StudyPlan) MySQL
 
-
-## 🌱 I’m currently learning 
-- Software Engineering principles and Design Patterns.
-- Backend with Python Django.
-- Android Development with Kotlin and Java.
-- Problem Solving.
 ## 🖥️ My Projects
 ### Freelance Projects
 - [Car Workshop Managment System](https://github.com/OmarKhaledm21/CarWorkshop-Managment-System) Java, JavaFX, SQLite

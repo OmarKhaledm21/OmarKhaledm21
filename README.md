@@ -27,7 +27,7 @@
 
 ## 🔭 Problem Solving, Datastructures and Algorithms.
 - [Algorithms and Datastructures in Java](https://github.com/OmarKhaledm21/Algorithm-and-Datastructures-in-Java)  
-- [Algorithms and Datastructures in c++](https://github.com/OmarKhaledm21/Algorithms_and_Datastructures_CPLUSPLUS)
+- [Algorithms and Datastructures in C++](https://github.com/OmarKhaledm21/Algorithms_and_Datastructures_CPLUSPLUS)
 - [Solved Problems LeetCode Repository](https://github.com/OmarKhaledm21/365Days_LeetCode)
 - [Solved Problems CodeForces Repository](https://github.com/OmarKhaledm21/Problem-Solving_Codeforces)
 - [HackerRank SQL Solutions](https://github.com/OmarKhaledm21/Hackerrank_SQL) MySQL

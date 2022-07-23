@@ -11,7 +11,7 @@
 
 - [Book Listing Android Application using Google books API](https://github.com/OmarKhaledm21/Book-Listing-App-Android-Native-Java-)
 
-- [Chinese Checkers AI vs Human (Hard - Easy - Medium) Using MiniMax Algorithm](https://github.com/OmarKhaledm21/Chinese-Checkers-AI)
+- [Meta Backend Developer Professional Specialization (8 Months)](https://github.com/OmarKhaledm21/Meta_Backend_Specialization) Python, Django Framework, HTML, CSS, JavaScript, Bootstrap, SQL
 
 - [Pet Shelter Manager App](https://github.com/OmarKhaledm21/PetShelter_Android_Native_Java)
 <br>
@@ -21,7 +21,7 @@
 
 ## 🌱 I’m currently learning 
 - Software Engineering principles and Design Patterns.
-- Backend Development with Python Django.
+- Backend Development with Python Django (By Meta).
 - Android Development with Kotlin and Java.
 - Problem Solving.
 
@@ -50,7 +50,7 @@
 - [Simple Stopwatch Android Application](https://github.com/OmarKhaledm21/SimpleStopwatch-Android-Native-Java-) Java
 - [Android Simple Image Downloader](https://github.com/OmarKhaledm21/Android_Image_Downloader_Using-Java-AndroidStudio) Java
 - [TMDb Movies Case Study Data Cleaning & Analysis](https://github.com/OmarKhaledm21/TMDb-Movies-Case-Study-Project-_Analysis-Report-Professional-Nano-Degree-Udacity-egFWD-) Python (Pandas, NumPy)
-- [Meta Backend Developer Specialization (8 Months)](https://github.com/OmarKhaledm21/Meta_Backend_Specialization) Python, Django Framework, HTML, CSS, JavaScript, Bootstrap, SQL (In Progress)
+- [Meta Backend Developer Professional Specialization (8 Months)](https://github.com/OmarKhaledm21/Meta_Backend_Specialization) Python, Django Framework, HTML, CSS, JavaScript, Bootstrap, SQL (In Progress)
 - [Custom PHP Backend with MySQL Supports SCRUD Operations](https://github.com/OmarKhaledm21/PHP_MySQL_SCRUD_Backend) PHP, HTML, MySQL 
 - [Quiz Application](https://github.com/OmarKhaledm21/Flutter_QuizDemo) Dart, Flutter
 - [ToDo List Application](https://github.com/OmarKhaledm21/Flutter-Google-Developer-Student-Club-Todo-List-Final-Task-) Dart, Flutter

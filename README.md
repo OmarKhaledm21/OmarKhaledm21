@@ -11,7 +11,7 @@
 
 - [Book Listing Android Application using Google books API](https://github.com/OmarKhaledm21/Book-Listing-App-Android-Native-Java-)
 
-- [Meta Backend Developer Professional Specialization (8 Months)](https://github.com/OmarKhaledm21/Meta_Backend_Specialization) Python, Django Framework, HTML, CSS, JavaScript, Bootstrap, SQL
+- [Meta Backend Developer Professional Specialization (8 Months)](https://github.com/OmarKhaledm21/Meta_Backend_Specialization)
 
 - [Pet Shelter Manager App](https://github.com/OmarKhaledm21/PetShelter_Android_Native_Java)
 <br>

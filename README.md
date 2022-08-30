@@ -21,7 +21,7 @@
 ## 🌱 I’m currently learning 
 - Software Engineering principles and Design Patterns.
 - Backend Development with Python Django (By Meta).
-- Android Development with Kotlin and Java.
+- Android Development with Java.
 - Problem Solving.
 
 ## 🔭 Problem Solving, Datastructures and Algorithms.
@@ -38,7 +38,7 @@
 ### Personal Projects
 - [Book Listing Android Application using Google books API](https://github.com/OmarKhaledm21/Book-Listing-App-Android-Native-Java-) Java, SQLite (In Progress)
 - [Basic Blockchain & Implemented simple proof of work mechanism](https://github.com/OmarKhaledm21/Basic_Blockchain) Java (Blockchain mockup)
-- [Experince Egypt Tourism Guide Android Application](https://github.com/OmarKhaledm21/ExperienceEgyptApp_Android-Java-Tourism-Guide-) Java, SQLite (In Progress)
+- [Personal Blog](https://github.com/OmarKhaledm21/Blog-Project-Python-Django-) Python Django, SQLite, HTML, CSS
 - [Earth Quake Report Android Application Using USGS API](https://github.com/OmarKhaledm21/EarthQuakeReport_AndroidNative-API-JSON) Java
 - [Grocery Store Android Application](https://github.com/OmarKhaledm21/GroceryStore_AndroidNative-Java-) Java, SQLite
 - [Pet Shelter Manager App](https://github.com/OmarKhaledm21/PetShelter_Android_Native_Java) Java, SQLite

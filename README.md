@@ -11,8 +11,6 @@
 - [Book Listing Android Application using Google books API](https://github.com/OmarKhaledm21/Book-Listing-App-Android-Native-Java-)
 
 - [Meta Backend Developer Professional Specialization (8 Months)](https://github.com/OmarKhaledm21/Meta_Backend_Specialization)
-
-- [Pet Shelter Manager App](https://github.com/OmarKhaledm21/PetShelter_Android_Native_Java)
 <br>
 <br>
 <br>
@@ -24,13 +22,7 @@
 - Android Development with Java.
 - Problem Solving.
 
-## 🔭 Problem Solving, Datastructures and Algorithms.
-- [Algorithms and Datastructures in Java](https://github.com/OmarKhaledm21/Algorithm-and-Datastructures-in-Java)  
-- [Algorithms and Datastructures in C++](https://github.com/OmarKhaledm21/Algorithms_and_Datastructures_CPLUSPLUS)
-- [Solved Problems LeetCode Repository](https://github.com/OmarKhaledm21/365Days_LeetCode)
-- [Solved Problems CodeForces Repository](https://github.com/OmarKhaledm21/Problem-Solving_Codeforces)
-- [HackerRank SQL Solutions](https://github.com/OmarKhaledm21/Hackerrank_SQL) MySQL
-- [LeetCode SQL Study Plan](https://github.com/OmarKhaledm21/LeetCode_SQL_StudyPlan) MySQL
+
 
 ## 🖥️ My Projects
 ### Freelance Projects
@@ -40,6 +32,7 @@
 - [Basic Blockchain & Implemented simple proof of work mechanism](https://github.com/OmarKhaledm21/Basic_Blockchain) Java (Blockchain mockup)
 - [Personal Blog](https://github.com/OmarKhaledm21/Blog-Project-Python-Django-) Python Django, SQLite, HTML, CSS
 - [Earth Quake Report Android Application Using USGS API](https://github.com/OmarKhaledm21/EarthQuakeReport_AndroidNative-API-JSON) Java
+- [Social Media App](https://github.com/OmarKhaledm21/Social-Network-App) Python Django, SQLite, HTML, CSS
 - [Grocery Store Android Application](https://github.com/OmarKhaledm21/GroceryStore_AndroidNative-Java-) Java, SQLite
 - [Pet Shelter Manager App](https://github.com/OmarKhaledm21/PetShelter_Android_Native_Java) Java, SQLite
 - [Bits and Pizzas Resturant Android Application](https://github.com/OmarKhaledm21/Bits-and-Pizzas_Android-Native-JAVA-) Java
@@ -65,8 +58,16 @@
 - [CPU Scheduling Algorithms](https://github.com/OmarKhaledm21/CPU-Scheduling-JAVA) Java
 - [Virtual File System](https://github.com/OmarKhaledm21/Virtual-File-System-Simulation) Java
 - [Java Linux Terminal](https://github.com/OmarKhaledm21/Linux-Terminal-Simulation_Using_Java) Java
-
 - [Router Simulation & Syncronization](https://github.com/OmarKhaledm21/Router-Simulation-Java-Synchronization) Java
+
+## 🔭 Problem Solving, Datastructures and Algorithms.
+- [Algorithms and Datastructures in Java](https://github.com/OmarKhaledm21/Algorithm-and-Datastructures-in-Java)  
+- [Algorithms and Datastructures in C++](https://github.com/OmarKhaledm21/Algorithms_and_Datastructures_CPLUSPLUS)
+- [Solved Problems LeetCode Repository](https://github.com/OmarKhaledm21/365Days_LeetCode)
+- [Solved Problems CodeForces Repository](https://github.com/OmarKhaledm21/Problem-Solving_Codeforces)
+- [HackerRank SQL Solutions](https://github.com/OmarKhaledm21/Hackerrank_SQL) MySQL
+- [LeetCode SQL Study Plan](https://github.com/OmarKhaledm21/LeetCode_SQL_StudyPlan) MySQL
+
 ## 📫 My Links and How to reach me: 
 - Email: omarkhaledm21@gmail.com 
 - [Linkedin](https://www.linkedin.com/in/omarkhaledm21)

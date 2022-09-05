@@ -34,9 +34,6 @@
 - [Earth Quake Report Android Application Using USGS API](https://github.com/OmarKhaledm21/EarthQuakeReport_AndroidNative-API-JSON) Java, USGS API
 - [Social Media App](https://github.com/OmarKhaledm21/Social-Network-App) Python Django, SQLite, HTML, CSS
 - [Grocery Store Android Application](https://github.com/OmarKhaledm21/GroceryStore_AndroidNative-Java-) Java, SQLite
-<!--
-- [Pet Shelter Manager App](https://github.com/OmarKhaledm21/PetShelter_Android_Native_Java) Java, SQLite
--->
 - [Bits and Pizzas Resturant Android Application](https://github.com/OmarKhaledm21/Bits-and-Pizzas_Android-Native-JAVA-) Java
 - [Simple Stopwatch Android Application](https://github.com/OmarKhaledm21/SimpleStopwatch-Android-Native-Java-) Java
 - [Android Simple Image Downloader](https://github.com/OmarKhaledm21/Android_Image_Downloader_Using-Java-AndroidStudio) Java

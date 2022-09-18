@@ -7,9 +7,6 @@
 
 ## 🔭 I’m currently working on
 - [Algorithms and Datastructures in Java](https://github.com/OmarKhaledm21/Algorithm-and-Datastructures-in-Java)  
-
-- [Book Listing Android Application using Google books API](https://github.com/OmarKhaledm21/Book-Listing-App-Android-Native-Java-)
-
 - [Meta Backend Developer Professional Specialization (8 Months)](https://github.com/OmarKhaledm21/Meta_Backend_Specialization)
 <br>
 <br>
@@ -28,7 +25,7 @@
 ### Freelance Projects
 - [Car Workshop Managment System](https://github.com/OmarKhaledm21/CarWorkshop-Managment-System) Java, JavaFX, SQLite
 ### Personal Projects
-- [Book Listing Android Application using Google books API](https://github.com/OmarKhaledm21/Book-Listing-App-Android-Native-Java-) Java, SQLite, Google Books API (In Progress)
+- [Book Listing Android Application using Google books API](https://github.com/OmarKhaledm21/Book-Listing-App-Android-Native-Java-) Java, SQLite, Google Books API 
 - [E-Commerce Fullstack Website](https://github.com/OmarKhaledm21/E-Commerce-Website-Fullstack-project) Python Django, ReactJS, SQL, Bootstrap CSS, Braintree Payment Gateway, REST API (Django REST Framework)
 - [Basic Blockchain & Implemented simple proof of work mechanism](https://github.com/OmarKhaledm21/Basic_Blockchain) Java (Blockchain mockup)
 - [Personal Blog](https://github.com/OmarKhaledm21/Blog-Project-Python-Django-) Python Django, SQLite, HTML, CSS

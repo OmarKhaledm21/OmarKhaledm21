@@ -27,6 +27,7 @@
 ### Personal Projects
 - [Book Listing Android Application using Google books API](https://github.com/OmarKhaledm21/Book-Listing-App-Android-Native-Java-) Java, SQLite, Google Books API 
 - [E-Commerce Fullstack Website](https://github.com/OmarKhaledm21/E-Commerce-Website-Fullstack-project) Python Django, ReactJS, SQL, Bootstrap CSS, Braintree Payment Gateway, REST API (Django REST Framework)
+- [Readit Community-based Social Application](https://github.com/OmarKhaledm21/Readit-Social-App) Python Django, HTML, Bootstrap CSS, SQL(Django Models)
 - [Basic Blockchain & Implemented simple proof of work mechanism](https://github.com/OmarKhaledm21/Basic_Blockchain) Java (Blockchain mockup)
 - [Personal Blog](https://github.com/OmarKhaledm21/Blog-Project-Python-Django-) Python Django, SQLite, HTML, CSS
 - [Earth Quake Report Android Application Using USGS API](https://github.com/OmarKhaledm21/EarthQuakeReport_AndroidNative-API-JSON) Java, USGS API

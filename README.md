@@ -33,17 +33,18 @@
 - [Earth Quake Report Android Application Using USGS API](https://github.com/OmarKhaledm21/EarthQuakeReport_AndroidNative-API-JSON) Java, USGS API (Using Retrofit & Gson)
 - [Simple API Based Currency Converter](https://github.com/OmarKhaledm21/CodeClause_Currency_Converter) Java, JavaFx, APIs, SQLite
 - [Social Media App](https://github.com/OmarKhaledm21/Social-Network-App) Python Django, SQLite, HTML, CSS
+- [Expense Tracker](https://github.com/OmarKhaledm21/Expense-Tracker) ReactJS, CSS
+- [Meta Backend Developer Professional Specialization (8 Months)](https://github.com/OmarKhaledm21/Meta_Backend_Specialization) Python, Django Framework, HTML, CSS, JavaScript, Bootstrap, SQL (In Progress)
+- [Weather App](https://github.com/OmarKhaledm21/WeatherApp_JavaScript) JavaScript, HTML, CSS
+- [Fighter Multiplayer InBrowser Game](https://github.com/OmarKhaledm21/FighterMultiplayerGame) JavaScript, HTML, CSS
 - [Grocery Store Android Application](https://github.com/OmarKhaledm21/GroceryStore_AndroidNative-Java-) Java, SQLite
 - [Bits and Pizzas Resturant Android Application](https://github.com/OmarKhaledm21/Bits-and-Pizzas_Android-Native-JAVA-) Java
 - [Simple Stopwatch Android Application](https://github.com/OmarKhaledm21/SimpleStopwatch-Android-Native-Java-) Java
 - [Android Simple Image Downloader](https://github.com/OmarKhaledm21/Android_Image_Downloader_Using-Java-AndroidStudio) Java
-- [TMDb Movies Case Study Data Cleaning & Analysis](https://github.com/OmarKhaledm21/TMDb-Movies-Case-Study-Project-_Analysis-Report-Professional-Nano-Degree-Udacity-egFWD-) Python (Pandas, NumPy)
-- [Meta Backend Developer Professional Specialization (8 Months)](https://github.com/OmarKhaledm21/Meta_Backend_Specialization) Python, Django Framework, HTML, CSS, JavaScript, Bootstrap, SQL (In Progress)
-- [Weather App](https://github.com/OmarKhaledm21/WeatherApp_JavaScript) JavaScript, HTML, CSS
-- [Fighter Multiplayer InBrowser Game](https://github.com/OmarKhaledm21/FighterMultiplayerGame) JavaScript, HTML, CSS
 - [Custom PHP Backend with MySQL Supports SCRUD Operations](https://github.com/OmarKhaledm21/PHP_MySQL_SCRUD_Backend) PHP, HTML, MySQL 
 - [Quiz Application](https://github.com/OmarKhaledm21/Flutter_QuizDemo) Dart, Flutter
 - [ToDo List Application](https://github.com/OmarKhaledm21/Flutter-Google-Developer-Student-Club-Todo-List-Final-Task-) Dart, Flutter
+- [TMDb Movies Case Study Data Cleaning & Analysis](https://github.com/OmarKhaledm21/TMDb-Movies-Case-Study-Project-_Analysis-Report-Professional-Nano-Degree-Udacity-egFWD-) Python (Pandas, NumPy)
 
 ### College Projects
 - [CLI Ride Sharing Application](https://github.com/OmarKhaledm21/OnDriverSystem_CS_Project) Java, SQLite, Springboot

@@ -25,18 +25,18 @@
 ### Freelance Projects
 - [Car Workshop Managment System](https://github.com/OmarKhaledm21/CarWorkshop-Managment-System) Java, JavaFX, SQLite
 ### Personal Projects
-- [Book Listing Android Application using Google books API](https://github.com/OmarKhaledm21/Book-Listing-App-Android-Native-Java-) Java, SQLite, Google Books API 
 - [E-Commerce Fullstack Website](https://github.com/OmarKhaledm21/E-Commerce-Website-Fullstack-project) Python Django, ReactJS, SQL, Bootstrap CSS, Braintree Payment Gateway, REST API (Django REST Framework)
 - [Readit Community-based Social Application](https://github.com/OmarKhaledm21/Readit-Social-App) Python Django, HTML, Bootstrap CSS, SQL(Django Models)
 - [Basic Blockchain & Implemented simple proof of work mechanism](https://github.com/OmarKhaledm21/Basic_Blockchain) Java (Blockchain mockup)
 - [Personal Blog](https://github.com/OmarKhaledm21/Blog-Project-Python-Django-) Python Django, SQLite, HTML, CSS
 - [Earth Quake Report Android Application Using USGS API](https://github.com/OmarKhaledm21/EarthQuakeReport_AndroidNative-API-JSON) Java, USGS API (Using Retrofit & Gson)
+- [Book Listing Android Application using Google books API](https://github.com/OmarKhaledm21/Book-Listing-App-Android-Native-Java-) Java, SQLite, Google Books API 
 - [Simple API Based Currency Converter](https://github.com/OmarKhaledm21/CodeClause_Currency_Converter) Java, JavaFx, APIs, SQLite
-- [Social Media App](https://github.com/OmarKhaledm21/Social-Network-App) Python Django, SQLite, HTML, CSS
 - [Expense Tracker](https://github.com/OmarKhaledm21/Expense-Tracker) ReactJS, CSS
 - [Meta Backend Developer Professional Specialization (8 Months)](https://github.com/OmarKhaledm21/Meta_Backend_Specialization) Python, Django Framework, HTML, CSS, JavaScript, Bootstrap, SQL (In Progress)
 - [Weather App](https://github.com/OmarKhaledm21/WeatherApp_JavaScript) JavaScript, HTML, CSS
 - [Fighter Multiplayer InBrowser Game](https://github.com/OmarKhaledm21/FighterMultiplayerGame) JavaScript, HTML, CSS
+- [Social Media App](https://github.com/OmarKhaledm21/Social-Network-App) Python Django, SQLite, HTML, CSS
 - [Grocery Store Android Application](https://github.com/OmarKhaledm21/GroceryStore_AndroidNative-Java-) Java, SQLite
 - [Bits and Pizzas Resturant Android Application](https://github.com/OmarKhaledm21/Bits-and-Pizzas_Android-Native-JAVA-) Java
 - [Simple Stopwatch Android Application](https://github.com/OmarKhaledm21/SimpleStopwatch-Android-Native-Java-) Java

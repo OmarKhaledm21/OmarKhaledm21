@@ -34,7 +34,8 @@
 - [Simple API Based Currency Converter](https://github.com/OmarKhaledm21/CodeClause_Currency_Converter) Java, JavaFx, APIs, SQLite
 - [Expense Tracker](https://github.com/OmarKhaledm21/Expense-Tracker) ReactJS, CSS
 - [Meta Backend Developer Professional Specialization (8 Months)](https://github.com/OmarKhaledm21/Meta_Backend_Specialization) Python, Django Framework, HTML, CSS, JavaScript, Bootstrap, SQL (In Progress)
-- [Weather App](https://github.com/OmarKhaledm21/WeatherApp_JavaScript) JavaScript, HTML, CSS
+- [Food Order App](https://github.com/OmarKhaledm21/Food-Order-App) ReactJS, CSS
+- [Weather App](https://github.com/OmarKhaledm21/WeatherApp_JavaScript) JavaScript, HTML, CSS, Fetch API
 - [Fighter Multiplayer InBrowser Game](https://github.com/OmarKhaledm21/FighterMultiplayerGame) JavaScript, HTML, CSS
 - [Social Media App](https://github.com/OmarKhaledm21/Social-Network-App) Python Django, SQLite, HTML, CSS
 - [Grocery Store Android Application](https://github.com/OmarKhaledm21/GroceryStore_AndroidNative-Java-) Java, SQLite

@@ -30,7 +30,7 @@
 - [Readit Community-based Social Application](https://github.com/OmarKhaledm21/Readit-Social-App) Python Django, HTML, Bootstrap CSS, SQL(Django Models) <b>Full Stack</b>
 - [Basic Blockchain & Implemented simple proof of work mechanism](https://github.com/OmarKhaledm21/Basic_Blockchain) Java (Blockchain mockup)
 - [Personal Blog](https://github.com/OmarKhaledm21/Blog-Project-Python-Django-) Python Django, SQLite, HTML, CSS <b>Full Stack</b>
-- [Earth Quake Report Android Application Using USGS API](https://github.com/OmarKhaledm21/EarthQuakeReport_AndroidNative-API-JSON) Java, USGS API (Using Retrofit & Gson)
+- [Earth Quake Report Android Application Using USGS API](https://github.com/OmarKhaledm21/EarthQuakeReport_AndroidNative-API-JSON) Java, USGS API (Using Retrofit & Gson) <b>Android Application</b> 
 - [Book Listing Android Application using Google books API](https://github.com/OmarKhaledm21/Book-Listing-App-Android-Native-Java-) Java, SQLite, Google Books API <b>Android Application</b> 
 - [Simple API Based Currency Converter](https://github.com/OmarKhaledm21/CodeClause_Currency_Converter) Java, JavaFx, APIs, SQLite <b>Desktop Application</b>
 - [Expense Tracker](https://github.com/OmarKhaledm21/Expense-Tracker) ReactJS, CSS

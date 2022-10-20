@@ -26,7 +26,7 @@
 - [Car Workshop Managment System](https://github.com/OmarKhaledm21/CarWorkshop-Managment-System) Java, JavaFX, SQLite <b>Desktop Application</b>
 ### Personal Projects
 - [E-Commerce Fullstack Website](https://github.com/OmarKhaledm21/E-Commerce-Website-Fullstack-project) Python Django, ReactJS, SQL, Bootstrap CSS, Braintree Payment Gateway, REST API (Django REST Framework) <b>Full Stack</b>
-- [Stocks Monitor App]() Python Django, Django Rest Framework, ReactJS, Bootstrap, CSS, PostgreSQL <b>Full Stack</b>
+- [Stocks Monitor App](https://github.com/OmarKhaledm21/Stocks-Monitor) Python Django, Django Rest Framework, ReactJS, Bootstrap, CSS, PostgreSQL <b>Full Stack</b>
 - [Readit Community-based Social Application](https://github.com/OmarKhaledm21/Readit-Social-App) Python Django, HTML, Bootstrap CSS, SQL(Django Models) <b>Full Stack</b>
 - [Basic Blockchain & Implemented simple proof of work mechanism](https://github.com/OmarKhaledm21/Basic_Blockchain) Java (Blockchain mockup)
 - [Personal Blog](https://github.com/OmarKhaledm21/Blog-Project-Python-Django-) Python Django, SQLite, HTML, CSS <b>Full Stack</b>

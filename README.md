@@ -51,6 +51,7 @@
 ### College Projects
 - [CLI Ride Sharing Application](https://github.com/OmarKhaledm21/OnDriverSystem_CS_Project) Java, SQLite, Springboot
 - [K-MEANS Clustering on Multiprocessors](https://github.com/OmarKhaledm21/K-MEANS_Clustering-C_OpenMP-) C, OpenMP Framework
+- [Compiler Construction first 2 phases 'Scanner Lexical Analyzer- Parser' (https://github.com/OmarKhaledm21/Compiler_Construction) C++
 - [Chinese Checkers AI vs Human (Hard - Easy - Medium) Using MiniMax Algorithm](https://github.com/OmarKhaledm21/Chinese-Checkers-AI) Python
 - [Curve Fitting using Canonical Genetic Algorithm](https://github.com/OmarKhaledm21/CurveFitting_GA) Java
 - [Solving Knapsack Problem using Simple Genetic Algorithm (Selection-Crossover-Mutation)](https://github.com/OmarKhaledm21/Knapsack_GeneticAlgorithm) Java

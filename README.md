@@ -52,6 +52,7 @@
 - [CLI Ride Sharing Application](https://github.com/OmarKhaledm21/OnDriverSystem_CS_Project) Java, SQLite, Springboot
 - [K-MEANS Clustering on Multiprocessors](https://github.com/OmarKhaledm21/K-MEANS_Clustering-C_OpenMP-) C, OpenMP Framework
 - [Chinese Checkers AI vs Human (Hard - Easy - Medium) Using MiniMax Algorithm](https://github.com/OmarKhaledm21/Chinese-Checkers-AI) Python
+- [Curve Fitting using Canonical Genetic Algorithm](https://github.com/OmarKhaledm21/CurveFitting_GA) Java
 - [Solving Knapsack Problem using Simple Genetic Algorithm (Selection-Crossover-Mutation)](https://github.com/OmarKhaledm21/Knapsack_GeneticAlgorithm) Java
 - [LZ&LZW Text Compressions](https://github.com/OmarKhaledm21/Limpel-Ziv-77-and-LZW-Compressions-in-JAVA) Java
 - [Standard Huffman Text Compression](https://github.com/OmarKhaledm21/StandardHuffman_Compression-Decompression_JAVA) Java

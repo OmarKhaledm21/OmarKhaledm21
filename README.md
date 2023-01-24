@@ -16,7 +16,6 @@
 ## 🌱 I’m currently learning 
 - Software Engineering principles and Design Patterns.
 - Backend Development with Python Django (By Meta).
-- Android Development with Java.
 - Problem Solving.
 
 

@@ -23,8 +23,8 @@
 ## 🖥️ My Projects
 
 ### Personal Projects
-- [Events Tickets Reservation System] Python Django, PostgreSQL, Stripe Payment Gateway, REST API (Django REST Framework) <b>Backend Freelance Project</b>
-- [User Sessions Manager] NodeJs, MongoDB, REST APIs, AngularJs <b>Siemens EDA Project</b>
+- [Event Tickets Reservation System]() Python Django, PostgreSQL, Stripe Payment Gateway, REST API (Django REST Framework) <b>Backend Freelance Project</b>
+- [User Sessions Manager]() NodeJs, MongoDB, REST APIs, AngularJs <b>Siemens EDA Project</b>
 - [E-Commerce Fullstack Website](https://github.com/OmarKhaledm21/E-Commerce-Website-Fullstack-project) Python Django, ReactJS, SQL, Bootstrap CSS, Braintree Payment Gateway, REST API (Django REST Framework) <b>Full Stack</b>
 - [Stocks Monitor App](https://github.com/OmarKhaledm21/Stocks-Monitor) Python Django, Django Rest Framework, ReactJS, Bootstrap, CSS, PostgreSQL <b>Full Stack</b>
 - [Readit Community-based Social Application](https://github.com/OmarKhaledm21/Readit-Social-App) Python Django, HTML, Bootstrap CSS, SQL(Django Models) <b>Full Stack</b>

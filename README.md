@@ -82,5 +82,5 @@
 - [Hackerrank](https://www.hackerrank.com/Omar_Khaled21)
 - [LeetCode](https://leetcode.com/OmarKhaledm21/)
 - [CodeForces](https://codeforces.com/profile/Omar_Khaled22)
-- [CV]((https://drive.google.com/file/d/113SFg0KuvFpO7RvUNr-k4c3thRIRvPqo/view?usp=sharing)https://drive.google.com/file/d/113SFg0KuvFpO7RvUNr-k4c3thRIRvPqo/view?usp=sharing)
+- [CV](https://drive.google.com/file/d/113SFg0KuvFpO7RvUNr-k4c3thRIRvPqo/view?usp=sharing)
 

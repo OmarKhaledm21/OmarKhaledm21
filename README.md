@@ -5,18 +5,13 @@
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=OmarKhaledm21&include_all_commits=true" width="47%" align="left"/>  
 </div>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 <!-- Blank line -->
-
-
 
 ## 🔭 I’m currently working on
 - [Algorithms and Datastructures in Java](https://github.com/OmarKhaledm21/Algorithm-and-Datastructures-in-Java)  
 - [Meta Backend Developer Professional Specialization (8 Months)](https://github.com/OmarKhaledm21/Meta_Backend_Specialization)
 <br>
-<br>
-<br>
-
 
 ## 🌱 I’m currently learning 
 - Software Engineering principles and Design Patterns.

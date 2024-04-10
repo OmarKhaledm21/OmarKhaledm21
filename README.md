@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm Omar Khaled Mohy El-din
 
 <!-- Blank line -->
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=OmarKhaledm21&include_all_commits=true" width="47%" align="left"/>
+<br>
 <!-- Blank line -->
 
 

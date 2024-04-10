@@ -3,6 +3,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=OmarKhaledm21&include_all_commits=true" width="47%" align="left"/>
 
+<br>
+<br>
 
 
 ## 🔭 I’m currently working on
@@ -15,8 +17,9 @@
 
 ## 🌱 I’m currently learning 
 - Software Engineering principles and Design Patterns.
-- Backend Development with Python Django (By Meta).
-- Problem Solving.
+- Backend Development using Java Spring Framework.
+- Problem Solving using Advanced Algorithms.
+- Docker containrization technology.
 
 
 

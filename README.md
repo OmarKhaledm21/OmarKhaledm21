@@ -24,7 +24,7 @@
 ## 🖥️ My Projects
 
 ### Personal Projects
-- [Cryptic Cat Social Media Platform](https://github.com/OmarKhaledm21/Cryptic-Cat)  Java Spring Boot 3, Spring Data JPA, Hibernate, Spring Security (implemented Json Web Tokens for authentication), JUnit5 (unit testing), MySQL (database) <b>Backend</b>
+- [Cryptic Cat Social Media Platform](https://github.com/OmarKhaledm21/Cryptic-Cat)  Java Spring Boot 3, Spring Data JPA, Hibernate, Spring Security (implemented Json Web Tokens for authentication), Spring Web (REST API), JUnit5 (unit testing), MySQL (database) <b>Backend</b>
 - **Kube Tickets Event Tickets Reservation System** Python Django, PostgreSQL, Stripe Payment Gateway, REST API (Django REST Framework) <b>Backend Freelance Project</b>
 - [User Sessions Manager]() NodeJs, MongoDB, REST APIs, AngularJs <b>Siemens EDA Project</b>
 - [E-Commerce Fullstack Website](https://github.com/OmarKhaledm21/E-Commerce-Website-Fullstack-project) Python Django, ReactJS, SQL, Bootstrap CSS, Braintree Payment Gateway, REST API (Django REST Framework) <b>Full Stack</b>

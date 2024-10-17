@@ -11,6 +11,7 @@
 ## 🔭 I’m currently working on
 - [Algorithms and Datastructures in Java](https://github.com/OmarKhaledm21/Algorithm-and-Datastructures-in-Java)  
 - [Meta Backend Developer Professional Specialization (8 Months)](https://github.com/OmarKhaledm21/Meta_Backend_Specialization)
+- [Cryptic Cat Social Media Platform](https://github.com/OmarKhaledm21/Cryptic-Cat)
 <br>
 
 ## 🌱 I’m currently learning 
